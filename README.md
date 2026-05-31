@@ -179,7 +179,6 @@ The project demonstrates practical Excel analytics skills, including:
 ## 📷 Dashboard Preview
 
 ![Procurement Dashboard](dashboard1.png)
-![Procurement Dashboard](dashboard2.png)
 
 ## ⚠ Disclaimer
 
